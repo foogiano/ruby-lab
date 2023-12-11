@@ -1,12 +1,20 @@
+{:title=>"A Light in the ...", :author=>"", :price=>"£51.77", :published_date=>"", :category=>""}
+{:title=>"Tipping the Velvet", :author=>"", :price=>"£53.74", :published_date=>"", :category=>""}
+{:title=>"Soumission", :author=>"", :price=>"£50.10", :published_date=>"", :category=>""}
 {:title=>"Sharp Objects", :author=>"", :price=>"£47.82", :published_date=>"", :category=>""}
+{:title=>"Sapiens: A Brief History ...", :author=>"", :price=>"£54.23", :published_date=>"", :category=>""}
 {:title=>"The Requiem Red", :author=>"", :price=>"£22.65", :published_date=>"", :category=>""}
 {:title=>"The Dirty Little Secrets ...", :author=>"", :price=>"£33.34", :published_date=>"", :category=>""}
 {:title=>"The Coming Woman: A ...", :author=>"", :price=>"£17.93", :published_date=>"", :category=>""}
 {:title=>"The Boys in the ...", :author=>"", :price=>"£22.60", :published_date=>"", :category=>""}
+{:title=>"The Black Maria", :author=>"", :price=>"£52.15", :published_date=>"", :category=>""}
 {:title=>"Starving Hearts (Triangular Trade ...", :author=>"", :price=>"£13.99", :published_date=>"", :category=>""}
 {:title=>"Shakespeare's Sonnets", :author=>"", :price=>"£20.66", :published_date=>"", :category=>""}
 {:title=>"Set Me Free", :author=>"", :price=>"£17.46", :published_date=>"", :category=>""}
+{:title=>"Scott Pilgrim's Precious Little ...", :author=>"", :price=>"£52.29", :published_date=>"", :category=>""}
 {:title=>"Rip it Up and ...", :author=>"", :price=>"£35.02", :published_date=>"", :category=>""}
+{:title=>"Our Band Could Be ...", :author=>"", :price=>"£57.25", :published_date=>"", :category=>""}
 {:title=>"Olio", :author=>"", :price=>"£23.88", :published_date=>"", :category=>""}
 {:title=>"Mesaerion: The Best Science ...", :author=>"", :price=>"£37.59", :published_date=>"", :category=>""}
+{:title=>"Libertarianism for Beginners", :author=>"", :price=>"£51.33", :published_date=>"", :category=>""}
 {:title=>"It's Only the Himalayas", :author=>"", :price=>"£45.17", :published_date=>"", :category=>""}

@@ -1,4 +1,3 @@
-#item_container.rb
 module ItemContainer
     def add_to_cart(item)
       @items << item
@@ -16,7 +15,7 @@ module ItemContainer
     end
   
     def total_price
-        total = @items.inject(0) { |sum, item| sum + item.price.delete('£').to_f } #без цього буде помилка з змінними і покаже що корзина = 0
+        total = @items.inject(0) { |sum, item| sum + item.price.delete('£').to_f } # без цього буде помилка з змінними і покаже що корзина = 0
         puts "Total Price: £#{total}"
     end
   end

@@ -1,4 +1,3 @@
-# item.rb
 require 'nokogiri'
 require 'open-uri'
 
